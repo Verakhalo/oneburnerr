@@ -1,0 +1,12 @@
+@media screen and (max-width: 780px) {
+.list-group{
+    display:none;
+}
+
+.dropdown-content{
+    flex-direction:column;
+}
+.first-img{
+    display:none;
+}
+}

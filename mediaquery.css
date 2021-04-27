@@ -1,0 +1,12 @@
+/* Media query for devices below 768px */
+@media screen and(max-width:768x){
+	.list-group{
+		display:none;
+	}
+	.dropdown-content{
+		flex-direction:column;
+	}
+	.first-img{
+		display:none;
+	}
+	}
